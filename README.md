@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning backend and blockchain
 - 💞️ I’m looking to collaborate on a python proyect
 - 📫 How to reach me nicolasdemaria04@gmail.com  or you can call me by +5493515481917
-- i am studying systems engineering in UTC FRC.  
+- I'm studying systems engineering in UTC FRC.  
 
 
 <!---
