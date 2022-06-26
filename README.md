@@ -6,6 +6,8 @@
 - I'm studying systems engineering in UTC FRC.
 - Codewars profile => https://www.codewars.com/users/NicoDemaria  
 - Portafolio => https://nicodemaria.github.io/Portafolio/
+- www.linkedin.com/in/nicolas-demaria
+
 
 
 <!---
