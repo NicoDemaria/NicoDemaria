@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicoDemaria
 - 👀 I’m interested in learn Data Analytics
 - 🌱 I’m currently learning Google Data Analytics Professional Certificate
-- 💞️ I’m looking to collaborate on a Data Analytics project
+- 💞️ I’m working as Data Analyst at Webee.
 - 📫 How to reach me nicolasdemaria4@gmail.com  or you can call me by +5493515481917
 - I'm studying systems engineering in UTC FRC.
 - Codewars profile => https://www.codewars.com/users/NicoDemaria  
