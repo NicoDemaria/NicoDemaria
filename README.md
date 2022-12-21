@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoDemaria
-- 👀 I’m interested in learn Data Analytics
-- 🌱 I’m currently learning Google Data Analytics Professional Certificate
+- 👀 I’m interested in learn Data Engineering
+- 🌱 I’m currently learning  Data Engineering
 - 💞️ I’m working as Data Analyst at Webee.
 - 📫 How to reach me nicolasdemaria4@gmail.com  or you can call me by +5493515481917
 - I'm studying systems engineering in UTC FRC.
