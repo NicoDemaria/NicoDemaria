@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @NicoDemaria
 - 👀 I’m interested in learn the Azure Environment
 - 🌱 I’m currently learning Data Engeniering
-- 💞️ I’m working as Data Analyst at Webee.
+- 💞️ I’m working as Data Analyst at COREBI.
 - 📫 How to reach me nicolasdemaria4@gmail.com  or you can call me by +5493515481917
 - I'm studying  DS in Colegio Universitario 21
 - Codewars profile => https://www.codewars.com/users/NicoDemaria  
