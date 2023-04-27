@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @NicoDemaria
-- 👀 I’m interested in learn the Azure Environment
+- 👀 I'm interested in contribute in open source projects
 - 🌱 I’m currently learning Data Engeniering
 - 💞️ I’m working as Data Analyst at COREBI.
 - 📫 How to reach me nicolasdemaria4@gmail.com  or you can call me by +5493515481917
