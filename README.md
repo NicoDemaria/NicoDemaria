@@ -4,9 +4,7 @@
 - 💞️ I’m working as Data Analyst at COREBI.
 - 📫 How to reach me nicolasdemaria4@gmail.com 
 - I'm studying  CS in Colegio Universitario 21
-- Codewars profile =>(https://www.codewars.com/users/NicoDemaria/badges/large)
-  
-
+- Codewars profile => [(https://www.codewars.com/users/NicoDemaria/badges/large)](https://www.codewars.com/users/NicoDemaria)
 - www.linkedin.com/in/nicolas-demaria
 - https://public.tableau.com/app/profile/nicolasdemaria/viz/national_Tobacco_Use/share-deaths-smoking
 
