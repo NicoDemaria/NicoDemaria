@@ -3,7 +3,7 @@
 - 🌱 I’m currently learning Data Engeniering
 - 💞️ I’m working as Data Analyst at COREBI.
 - 📫 How to reach me nicolasdemaria4@gmail.com 
-- I'm studying  DS in Colegio Universitario 21
+- I'm studying  CS in Colegio Universitario 21
 - Codewars profile => https://www.codewars.com/users/NicoDemaria  
 
 - www.linkedin.com/in/nicolas-demaria
