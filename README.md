@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NicoDemaria
 - 👀 I'm interested in contribute in open source projects
-- 🌱 I’m currently learning Snowflake
+- 🌱 I’m currently learning 
 - 💞️ I’m working as Data Engineer at COREBI.
 - 📫 How to reach me nicolasdemaria4@gmail.com 
 - I'm studying  CS in Colegio Universitario 21
